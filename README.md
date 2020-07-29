@@ -12,5 +12,3 @@ Some technologies I enjoy working with include: Azure, ReactJS, Java, JavaScript
 - :nerd_face: &nbsp; I'm currently learning ReactJS
 - :books: &nbsp; I'm currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 - :sushi: &nbsp; Fun fact: I love cooking and I prepare all my meals for the coming week every Sunday!
-- :smile: &nbsp; Pronouns: he/him/his
-- :bust_in_silhouette: &nbsp; [Connect with me](https://www.linkedin.com/in/jeremiah-clothier/) on LinkedIn
