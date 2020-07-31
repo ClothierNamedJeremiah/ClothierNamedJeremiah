@@ -9,6 +9,6 @@ Some technologies I enjoy working with include: Azure, ReactJS, Java, JavaScript
 
 - :white_check_mark: &nbsp; I recently completed all 100 coding questions on [AlgoExpert.io](https://www.algoexpert.io/questions)</pre>
 - :thought_balloon: &nbsp; Ask me about my experience with [AlgoExpert.io](https://www.algoexpert.io/questions) and [LeetCode](https://leetcode.com/muggle-born/)
-- :nerd_face: &nbsp; I'm currently learning ReactJS
+- :nerd_face: &nbsp; I'm always learning new things about ReactJS
 - :books: &nbsp; I'm currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 - :sushi: &nbsp; Fun fact: I love cooking and I prepare all my meals for the coming week every Sunday!
